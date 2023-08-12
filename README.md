@@ -44,4 +44,5 @@
  </p>
 
 #### ♨️ Always evolving ♨️
-![!Badge](https://img.shields.io/github/followers/monizyzz.svg?style=social&label=Follow&maxAge=2592000)
+<!--
+![!Badge](https://img.shields.io/github/followers/monizyzz.svg?style=social&label=Follow&maxAge=2592000) -->

@@ -35,7 +35,6 @@
 
 </details>
 
-<br>
 
  <sumary><h2>📊 Github Stats</h2></sumary>
  <p>

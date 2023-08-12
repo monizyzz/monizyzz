@@ -1,3 +1,10 @@
-### Hi there 👋
+<h2 align='center'>
+ 🌀 Moniz 🌀
+</h2> 
 
-We are just getting started ...
+<p>
+  I'm 19-year-old computer science student at the University of Minho. My passion for technology began at a young age, sparked by my experience at RoboParty 2014 when I was only 9 years old. Many years      later, when I entered university, I was getting where I wanted to be, closer to my passion 💙
+</p>
+
+
+#### Always evolving ⚡

@@ -39,7 +39,7 @@
 
  <sumary><h2>📊 Github Stats</h2></sumary>
  <p>
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=monizyzz&show_icons=true&theme=tokyonight">
+  <img height='190px' alt="stats" src="https://github-readme-stats.vercel.app/api?username=monizyzz&show_icons=true&theme=tokyonight">
   <img height='190px' alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monizyzz&layout=compact&theme=tokyonight">
  </p>
 

@@ -6,7 +6,6 @@
   I'm 19-year-old computer science student at the University of Minho. My passion for technology began at a young age, sparked by my experience at RoboParty 2014 when I was only 9 years old. Many years later, when I entered university and now I'm getting where I want to be, closer to my passion 💙
 </p>
 
-<hr>
 
 <details open>
     <summary><h2>📚 Skills </h2></summary>
@@ -26,8 +25,8 @@
 <p>
     <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img align="center" alt="visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     <img align="center" alt="gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
+    <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 <h3>🔍 Currently Studying</h3>
@@ -37,7 +36,6 @@
 
 </details>
 
-<hr>
 
  <sumary><h2>📊 Github Stats</h2></sumary>
  <p>

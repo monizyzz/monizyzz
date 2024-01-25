@@ -8,18 +8,19 @@
 
 
 <details open>
-    <summary><h2>📚 Skills </h2></summary>
-<h3>💻 Programming and Markup Languages </h3>
+    <summary><h2>💻 Skills </h2></summary>
+<!-- <h3>💻 Programming and Markup Languages </h3>-->
 <p>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
 </p>
  
 <!--
 <h3>🔭 Frameworks</h3>
--->
+
 
 <h3>⚒️ Software and tools </h3>
 <p>
@@ -28,12 +29,12 @@
     <img align="center" alt="gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
     <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
+-->
 
 <h3>🔍 Currently Studying</h3>
 <p>
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </p>
-
 </details>
 
 

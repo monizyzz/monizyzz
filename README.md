@@ -34,6 +34,7 @@
 <h3>🔍 Currently Studying</h3>
 <p>
  <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+ <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </p>
 </details>
 

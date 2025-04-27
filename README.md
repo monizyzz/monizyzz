@@ -38,7 +38,8 @@
 
 <h3>🔍 Currently Studying</h3>
 <p>
- <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <!--<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">-->
+ <!-- <img align="center" alt="nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> -->
  <img align="center" alt="erlang" src="https://img.shields.io/badge/Erlang-white?style=for-the-badge&logo=erlang&logoColor=A90533">
 </p>
 </details>

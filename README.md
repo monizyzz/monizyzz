@@ -3,7 +3,11 @@
 </h2>
 
 <p>
-  I'm 20-year-old computer science student at the University of Minho. My passion for technology began at a young age, sparked by my experience at RoboParty 2014 when I was only 9 years old. Many years later, after that awesome event I decided to enter to university and now I'm getting closer to my passion 💙
+  I'm a 21-year-old computer science student at the University of Minho, finishing my degree. My passion for technology began at a young age, sparked by my experience at RoboParty 2014 when I was only 9 years old.
+
+  Now, I'm actively involved in the Núcleo de Estudantes de Ciências da Computação ( NECC ) as Treasurer. When I started, I was the Director of the Pedagogical Department. 
+
+  I'm here to learn, grow and starve for more about technology. 💙
 </p>
 
 
@@ -21,6 +25,7 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+  <img align="center" alt="erlang" src="https://img.shields.io/badge/Erlang-white?style=for-the-badge&logo=erlang&logoColor=A90533">
 </p>
  
 <!--
@@ -39,16 +44,17 @@
 <h3>🔍 Currently Studying</h3>
 <p>
  <!--<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">-->
- <!-- <img align="center" alt="nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> -->
- <img align="center" alt="erlang" src="https://img.shields.io/badge/Erlang-white?style=for-the-badge&logo=erlang&logoColor=A90533">
+  <img align="center" alt="nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 </details>
 
 
  <sumary><h2>📊 Github Stats</h2></sumary>
  <p>
-  <img height='180px' alt="stats" src="https://github-readme-stats.vercel.app/api?username=monizyzz&show_icons=true&theme=tokyonight">
-  <img height='180px' alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monizyzz&layout=compact&theme=tokyonight">
+   <img height='180px' alt="stats" src="https://github-readme-stats.vercel.app/api?username=monizyzz&show_icons=true&theme=tokyonight">
+   <img height='180px' alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monizyzz&layout=compact&theme=tokyonight">
  </p>
 
 <p align="center"><strong> ♨️ Always evolving ♨️ </strong></p>

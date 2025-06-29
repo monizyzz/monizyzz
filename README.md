@@ -3,11 +3,15 @@
 </h2>
 
 <p>
-  I'm a 21-year-old computer science student at the University of Minho, finishing my degree. My passion for technology began at a young age, sparked by my experience at RoboParty 2014 when I was only 9 years old.
+  I'm a Computer Science graduate from the University of Minho with a strong interest in full-stack development.
 
-  Now, I'm actively involved in the Núcleo de Estudantes de Ciências da Computação ( NECC ) as Treasurer. When I started, I was the Director of the Pedagogical Department. 
+  My love for tech started when I was 9, building a small wheeled robot at RoboParty. That moment made me realise how awesome it is to bring ideas to life through code.
 
-  I'm here to learn, grow and starve for more about technology. 💙
+  During my time at university, I was part of NECC – Núcleo de Estudantes de Ciências da Computação – first as Director of the Pedagogical Department and later as Treasurer.
+
+  I’m all about solving real problems through code, learning new technologies, and constantly levelling up. Lately, I’ve also been diving into blockchain and loving the innovation in that space.
+
+  Always open to new challenges and cool projects 🚀
 </p>
 
 

@@ -9,7 +9,7 @@
 
   During my time at university, I was part of NECC – Núcleo de Estudantes de Ciências da Computação – first as Director of the Pedagogical Department and later as Treasurer.
 
-  I’m all about solving real problems through code, learning new technologies, and constantly levelling up. Lately, I’ve also been diving into blockchain and loving the innovation in that space.
+  I’ve also been exploring blockchain technology a bit — just trying to understand how it all works, and something is exciting about how it’s evolving.
 
   Always open to new challenges and cool projects 🚀
 </p>

@@ -1,23 +1,22 @@
 <h2 align='center'>
- 🔹 Moniz 🔹
+ 🔹 Bernardo Moniz 🔹
 </h2>
 
 <p>
-  I'm a Computer Science graduate from the University of Minho with a strong interest in full-stack development.
+  I'm a Computer Science graduate from the University of Minho.
 
   My love for tech started when I was 9, building a small wheeled robot at RoboParty. That moment made me realise how awesome it is to bring ideas to life through code.
 
   During my time at university, I was part of NECC – Núcleo de Estudantes de Ciências da Computação – first as Director of the Pedagogical Department and later as Treasurer.
 
-  I’ve also been exploring blockchain technology a bit — just trying to understand how it all works, and something is exciting about how it’s evolving.
-
   Always open to new challenges and cool projects 🚀
 </p>
 
 
+<!-- <h3>💻 Programming and Markup Languages </h3>-->
+<!--
 <details open>
     <summary><h2>💻 Skills </h2></summary>
-<!-- <h3>💻 Programming and Markup Languages </h3>-->
 <p>
   <img align="center" alt="haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -29,12 +28,20 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-  <!--<img align="center" alt="erlang" src="https://img.shields.io/badge/Erlang-white?style=for-the-badge&logo=erlang&logoColor=A90533">-->
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
  
+
+
+<h3>🔍 Currently Studying</h3>
+<p>
+  <img align="center" alt="nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+</p>
+</details>
+  <!--<img align="center" alt="erlang" src="https://img.shields.io/badge/Erlang-white?style=for-the-badge&logo=erlang&logoColor=A90533">-->
+
 <!--
 <h3>🔭 Frameworks</h3>
 
@@ -47,13 +54,6 @@
     <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
 -->
-
-<h3>🔍 Currently Studying</h3>
-<p>
-  <img align="center" alt="nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-</p>
-</details>
-
 
  <sumary><h2>📊 Github Stats</h2></sumary>
  <p>
